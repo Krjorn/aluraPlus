@@ -10,7 +10,7 @@ Projeto de site para divulgação dos planos da Alura desenvolvido como parte do
 
 | :label: Tecnologias | HTML, CSS
 
-| :rocket: URL | https://url-deploy.com.br
+| :rocket: URL | https://krjorn.github.io/aluraPlus/
 
 | :fire: Desafio | https://cursos.alura.com.br/course/html-css-praticando-html-css
 

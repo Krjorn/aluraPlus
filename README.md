@@ -14,7 +14,7 @@ Projeto de site para divulgação dos planos da Alura desenvolvido como parte do
 
 | :fire: Desafio | https://cursos.alura.com.br/course/html-css-praticando-html-css
 
-![Image do site Alura Plus](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Image do site Alura Plus](https://github.com/Krjorn/aluraPlus/blob/main/assets/aluraPlus.png#vitrinedev)
 
 ## Detalhes do projeto
 

@@ -2,16 +2,11 @@
 
 Projeto de site para divulgação dos planos da Alura desenvolvido como parte do curso Praticando HTML/CSS da Alura. 
 
-| :placard: Vitrine.Dev | |
-
+| :placard: Vitrine.Dev |     |
 | ------------- | --- |
-
 | :sparkles: Nome | **Alura Plus**
-
 | :label: Tecnologias | HTML, CSS
-
 | :rocket: URL | https://krjorn.github.io/aluraPlus/
-
 | :fire: Desafio | https://cursos.alura.com.br/course/html-css-praticando-html-css
 
 ![Image do site Alura Plus](https://github.com/Krjorn/aluraPlus/blob/main/assets/aluraPlus.png#vitrinedev)
